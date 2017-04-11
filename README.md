@@ -1,5 +1,17 @@
 # calc-steps
 
+Technical Task Outline:
+
+Create a program written in Java adhering to good coding practices.
+
+The program will take the input by exposing a HTTP end point.
+
+The program will respond with JSON response.
+
+The content of the response will be the output as per the problem definition.
+
+Please provide some unit tests to demonstrate ability to create them.
+
 Problem:
 A stairwell has a number of flights of stairs separated by landings. 
 Each flight is a straight line of steps that you can climb without stopping.  You can stride more than one step at a time when climbing each flight.
